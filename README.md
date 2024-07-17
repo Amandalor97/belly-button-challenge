@@ -9,7 +9,7 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 1) Create a horizontal barchart
 2) Create a bubble chart
-3) Display the sample's metadata, i.e., an individual's demographic information
+3) Display the sample's metadata
 4) Update all the plots when a new sample is selected
 
 Result: https://amandalor97.github.io/belly-button-challenge/
