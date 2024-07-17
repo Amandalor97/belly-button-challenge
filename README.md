@@ -1,6 +1,6 @@
 # belly-button-challenge
 
-Helllo, in this repository you will find my homework for the Module 14 Challenge. This homework has been made with the help of differents sources: Tutor, Xpert Learning Assistant, and my teammate Yesmelin P.
+Hello, in this repository you will find my homework for the Module 14 Challenge. This homework has been made with the help of differents sources: Tutor, Xpert Learning Assistant, and my teammate Yesmelin P.
 
 Assignment: 
 
